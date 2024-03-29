@@ -1,0 +1,34 @@
+int var = 5;
+
+
+int somar() {
+    return a + b;
+}
+
+
+int main() {
+    real x;
+    int var;
+    char qualquer;
+    int vetor = 10;
+    int resultadoSoma = 5;
+    x = 10.5;
+
+    y = (45 < 87);
+
+    input(int);
+    if (x >= 5) {
+        qualquer = 'a';
+        output("x>=5");
+    } else {
+        output("x<=5");
+    }
+    df = 'p';
+    while (x != 0) {
+        if (t<=5) x = 43+5*7/(3-7);
+    }
+    if(x>10) faz_algo();
+    
+    return 0;
+
+}

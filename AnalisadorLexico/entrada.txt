@@ -1,0 +1,63 @@
+int adicao (int a, int b) {
+    return a+b;
+}
+
+int subtracao (int a, int b) {
+    return a-b;
+}
+
+long long int multiplicacao (int a, int b) {
+    return a*b;
+}
+
+
+real divisao (int a, int b) {
+    return a/b;
+} 
+
+
+real escolheOperacao (unsigned x, int nA, int nB) {
+    
+\\dskhfdasjfdsçafghsfjhlsfds
+    real resultado;
+
+    switch (x) {
+        case 1= resultado=adicao(nA,nB); break;
+        case 2= resultado=subtracao(nA,nB); break;
+        case 3= resultado=multiplicacao(nA,nB); break;
+        case 4= resultado=divisao(nA,nB); break;
+        default= resultado=0; break;
+    }
+    return resultado;
+}
+
+\\\gfkjdljdfjgdf
+alsdaçsjdksjsfdkalkfdksjfsd
+fhdsld///
+
+
+int main() {
+    
+    unsigned operacao; \\dskhfdasjfdsçafghsfjhlsfds
+    int numUM,numDOIS;
+    
+    char ch = 'p';
+    real value = 23.75;
+
+    printf("Escolha a Operacao Aritmetica que deseja realizar.\n");    
+    printf("Digite (1) para Adicao; (2) para Subtracao; (3) para Multiplicacao; ou (4) para Divisao: ");
+    scanf("%u",operacao);
+    printf("Informe um numero inteiro como primeiro operando: ");
+    scanf("%d",numUM);
+    printf("Informe um outro numero inteiro como segundo operando: ");
+    scanf("%d",numDOIS);
+ 
+    printf("O resultado da operacao %u entre os operandos %d e %d eh: %.2f",operacao,numUM,numDOIS,escolheOperacao(operacao,numUM,numDOIS));
+ 
+    loop (if resultado==34.5) {
+	output ("OK");	
+
+	}
+}
+	output ("kdfsjljfdsf"); //skfjkdsjsd
+    return 0;

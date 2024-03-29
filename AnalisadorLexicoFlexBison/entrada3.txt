@@ -1,0 +1,3 @@
+output("Olá, ")
+int var = 4;
+int var-;

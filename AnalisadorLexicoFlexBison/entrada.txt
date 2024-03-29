@@ -1,0 +1,30 @@
+int var=10;
+
+int somar(int a, int b) {
+    return a + b;
+}
+
+
+int main() {
+    real x;
+    int var;
+    char qualquer;
+    int vator[3] = {10 2 3};
+    int resultadoSoma = somar(5, 3);
+    x = 10.5;
+
+    input(int);
+    if (x >= 5) {
+        qualquer = 'a';
+        output("x is greater than or equal to 5\n", "ola");
+    } else {
+        output("x is less than 5\n");
+    }
+    while (x != 0) {
+        x = x - 1;
+    }
+    if(x>10) while(10) faz_algo();
+    
+    return 0;
+
+}

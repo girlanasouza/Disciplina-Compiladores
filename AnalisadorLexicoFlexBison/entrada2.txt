@@ -1,0 +1,22 @@
+int main()	{
+    real x;
+    char he.ll_o;
+    x = 10.5;
+    he.ll_o = 'H';
+    if (x >= 5) {
+        output("x is greater than or equal to 5\n");
+    } else {
+        output("x is less than 5\n");
+    }
+\\\kjgkjhjhjh
+hgkkhjh
+kjgjkhjhjk///
+
+    while (x != 0) {
+        x = x - 1;
+    }
+    
+
+\\gkgkgkjj
+    return 0;
+}
